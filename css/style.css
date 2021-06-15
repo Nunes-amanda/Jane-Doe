@@ -45,6 +45,48 @@ ul.anchor-block li a {
     width: 100%;
 }
 
+main.about {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+main.about h2 {
+    margin:0 auto;
+    padding-top: 16px;
+}
+
+.item1 {
+    font-weight: bold;
+    margin: 0 auto;
+    padding-top: 16px;
+}
+
+.item2 {
+    margin: 0 auto;
+    padding-top: 16px;
+}
+
+.item3 {
+    font-weight: bold;
+    margin: 0 auto;
+    padding-top: 16px;
+}
+
+.item4 {
+    margin: 0 auto;
+    padding-top: 16px;
+}
+
+#foto {
+    margin-top: 16px;
+    background-image: url('../img/jane2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:contain;
+    height: 40vh;
+}
+
 footer p {
     text-align: center;
     background-color: #f2f2f2;
@@ -60,3 +102,4 @@ footer p {
         padding: 20px;
     }
 }
+
