@@ -118,14 +118,16 @@ ul.contactLast {
 }
 
 iframe:hover {
-  border: 1px solid coral;
-  padding: 2px;
+  padding: 0;
+  box-shadow: 2px -2px 20px 7px rgba(220,20,60,0.42);
+  -webkit-box-shadow: 2px -2px 20px 7px rgba(220,20,60,0.42);
+  -moz-box-shadow: 2px -2px 20px 7px rgba(220,20,60,0.42);
 }
 
 iframe {
   transition: all 0.9s;
   border: 2px solid #fff;
-  padding: 8px;
+  padding: 10px;
 }
 
 footer p {
