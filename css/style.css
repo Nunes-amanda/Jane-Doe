@@ -117,6 +117,17 @@ ul.contactLast {
   padding: 0 0 10px 0;
 }
 
+iframe:hover {
+  border: 1px solid coral;
+  padding: 2px;
+}
+
+iframe {
+  transition: all 0.9s;
+  border: 2px solid #fff;
+  padding: 8px;
+}
+
 footer p {
   text-align: center;
   background-color: #f2f2f2;
