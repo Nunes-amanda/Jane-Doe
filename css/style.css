@@ -32,6 +32,7 @@ ul.anchor-block li {
 
 ul.anchor-block li a {
   color: #555;
+  transition: color 0.8s;
   text-decoration: none;
 }
 
